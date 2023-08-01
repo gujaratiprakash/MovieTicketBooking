@@ -1,0 +1,26 @@
+[
+    {
+        "row":"A",
+        "seat": 1,
+        "name": "",
+        "age":"",
+        "price":"",
+        "status":""
+      },
+      {
+        "row":"A",
+        "seat": 2,
+        "name": "",
+        "age":"",
+        "price":"",
+        "status":""
+      },
+      {
+        "row":"A",
+        "seat": 3,
+        "name": "",
+        "age":"",
+        "price":"",
+        "status":""
+      },
+]
